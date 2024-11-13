@@ -1,2 +1,2 @@
-# Free-Scribe
-The React FreeScribe Translation Project is an innovative tool designed to capture audio recordings and  provide real-time translations.
+# free-scribe
+ React web based transcription & translation app that uses web workers to run ML models in the browser
