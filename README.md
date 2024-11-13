@@ -1,2 +1,2 @@
-# free-scribe
- React web based transcription & translation app that uses web workers to run ML models in the browser
+# Free-Scribe
+This application is designed to seamlessly transcribe and translate audio and video content into multiple languages. Built with React for a smooth, responsive user experience, it allows users to upload audio files and receive real-time or batch-mode text transcriptions. Additionally, it offers instant translation of transcriptions into various languages, making it ideal for global accessibility.
